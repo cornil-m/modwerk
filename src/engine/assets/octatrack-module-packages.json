@@ -428,7 +428,7 @@
       "name": "Recorder Loop",
       "module": "823e0f45",
       "bytes": 1818,
-      "sha256": "8c00cf85f7017cd2a842f12081dc8f74178f1dd8453f78e9a59ecaf59ff5e484",
+      "sha256": "d0006374eb00f98709124aaab9a3dd3f2c60c8fb9e72ae8fa0520df5bac05e0e",
       "path": "octatrack-modules/recorder-loop-fix/0.1.0-experimental.mwrm",
       "requiredBase": "249a2b7e1d3b8bfb093ec4d3ae4f40dc2be3659357beb34ab5b958447f8d331f"
     },
