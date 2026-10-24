@@ -251,7 +251,7 @@ modwerk_site_40031460:
         lea     -20(%sp),%sp
         movem.l %d0-%d1/%a0-%a2,(%sp)
 | ev_keymap_built: void f(void)
-        movea.l modwerk_runtime_event_row+108,%a2
+        movea.l modwerk_runtime_event_row+112,%a2
 .L40031460_ev_keymap_built:
         move.l  (%a2)+,%d0
         beq     .L40031460_ev_keymap_built_end

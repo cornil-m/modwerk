@@ -162,6 +162,13 @@
   },
   {
    "index": 31,
+   "event": "ot_midi_generators",
+   "kind": "table",
+   "room": 4,
+   "record": 36
+  },
+  {
+   "index": 32,
    "event": "ev_keymap_built",
    "kind": "call"
   }
