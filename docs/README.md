@@ -42,6 +42,7 @@ Every document in `docs/`, one line each. [AGENTS.md](../AGENTS.md) says which t
 
 - [OCTATRACK_HARDWARE_TRAPS.md](OCTATRACK_HARDWARE_TRAPS.md): what fails on a real unit: the base, the USB link, RAM boot, the DSP loader.
 - [OCTATRACK_DRIVING.md](OCTATRACK_DRIVING.md): working a unit over USB from an agent.
+- [OCTATRACK_BASE_REBUILD.md](OCTATRACK_BASE_REBUILD.md): rebuilding the beta base and rebinding its packages after a new event or a merge.
 - [FRONTEND_MCP.md](FRONTEND_MCP.md): the developer MCP for the site and a connected unit.
 - [OCTATRACK_MODULE_EDGE_CASES.md](OCTATRACK_MODULE_EDGE_CASES.md): what can go wrong across projects, Parts and power cycles.
 - [OCTATRACK_MORE_EFFECT_IDS.md](OCTATRACK_MORE_EFFECT_IDS.md): more than 32 effect ids.
